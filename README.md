@@ -1,21 +1,17 @@
-# Hi there! 👋 Привет!
+# 👋 Привет!
 AQA-engineer | Automation QA (Python)
 
-## 😎 About me/Обо мне:
-## Currently seeking a position as a "AQA-Engineer/Automation QA on Python" | **Нахожусь в поиске позиции "AQA-Engineer/Automation QA on Python"**
+## 😎 Обо мне:
+## **Нахожусь в поиске позиции "AQA-Engineer/Automation QA on Python"**
 
-A graduate of Yandex Practicum in the following programs | Являюсь выпускником "Яндекс Практикум" по направлениям:
-Software Testing Engineer | Инженер по тестированию ПО
-Python Test Automation Engineer | Автоматизатор тестирования на Python
+Являюсь выпускником "Яндекс Практикум" по направлениям:
+- Инженер по ручному тестированию ПО
+- Автоматизатор тестирования на Python
 
-This profile includes: | В данном профиле включены:
-Educational projects | Учебные проекты
-Solutions to testing assignments | Решения к тестовым заданиям
-Experiments with test automation and testing tools | Пет и экспериментальные автотесты и утилиты
+В данном профиле включены: учебные проекты, решения к тестовым заданиям, пет-утилиты и экспериментальные автотесты и утилиты
+Постоянно углубляю свои знания в автоматизации 😉
 
-I am continuously expanding my knowledge in automation | Постоянно углубляю свои знания в автоматизации 
-
-## 🛠 My tech stack/Мой технический стек:
+## 🛠 Мой технический стек:
 <img width="482" height="177" alt="изображение" src="https://github.com/user-attachments/assets/adb8fd44-37fd-4477-960f-ef20c2494bf4" />
 
 - OS: Windows XP-10; Linux Ubuntu, Mint; Android
