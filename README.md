@@ -1,9 +1,8 @@
 # Hi there! 👋 Привет!
 AQA-engineer | Automation QA (Python)
 <!--
-**QA-ksha/QA-ksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 😎 About me/Обо мне:
+😎 About me/Обо мне:
 Currently seeking a position as a "AQA-Engineer/Automation QA on Python" | Нахожусь в поиске позиции "AQA-Engineer/Automation QA on Python"
 
 A graduate of Yandex Practicum in the following programs | Являюсь выпускником "Яндекс Практикум" по направлениям:
@@ -22,7 +21,7 @@ Experiments with test automation and testing tools | Пет и эксперим�
 
 I am continuously expanding my knowledge in automation | Постоянно углубляю свои знания в автоматизации 
 
-- 🛠 My tech stack/Мой технический стек:
+🛠 My tech stack/Мой технический стек:
 <img width="482" height="177" alt="изображение" src="https://github.com/user-attachments/assets/adb8fd44-37fd-4477-960f-ef20c2494bf4" />
 
 OS: Windows XP-10; Linux Ubuntu, Mint; Android
@@ -45,7 +44,7 @@ PICT
 Statcounter
 ...
 
-- 📫 My contacts/Мои контакты: 8summus8@gmail.com
+📫 My contacts/Мои контакты: 8summus8@gmail.com
 
 
 -->
